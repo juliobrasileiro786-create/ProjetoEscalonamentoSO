@@ -6,6 +6,6 @@ O grupo é composto por:
 
 Júlio César Rodrigues Brasileiro Viana <br>
 Rafael Souza Guimarães <br>
-Paulo Henrique Costas Dias <br>
+Paulo Henrique Costa Dias <br>
 Pedro Horbson Rodrigues Pereira <br>
 
