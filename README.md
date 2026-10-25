@@ -4,8 +4,8 @@ Este é um projeto da disciplina de **Sistemas Operacionais** do curso de Análi
 
 O grupo é composto por:
 
-Júlio César Rodrigues Brasileiro Viana
-Rafael Souza Guimarães
-Paulo Henrique Costas Dias
-Pedro Horbson Rodrigues Pereira
+Júlio César Rodrigues Brasileiro Viana <br>
+Rafael Souza Guimarães <br>
+Paulo Henrique Costas Dias <br>
+Pedro Horbson Rodrigues Pereira <br>
 
